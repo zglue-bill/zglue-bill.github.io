@@ -25,7 +25,7 @@ var NAVTREE =
 [
   [ "The ZGLUE SDK (Alpha)", "index.html", [
     [ "NimBLE on Nuttx", "md_documentation_overview_ble.html", null ],
-    [ "Nuttx Enhancements", "md_documentation_overview_nuttx.html", null ],
+    [ "Zip on Nuttx", "md_documentation_overview_nuttx.html", null ],
     [ "system_chicago", "md_documentation_overview_system_chicago.html", null ],
     [ "File List", "files.html", "files" ]
   ] ]
