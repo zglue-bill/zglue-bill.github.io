@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['nimble_20on_20nuttx',['NimBLE on Nuttx',['../md_documentation_overview_ble.html',1,'']]]
+  ['nimble_20ble_20throughput_20test',['Nimble BLE Throughput Test',['../Throughput.html',1,'Comms']]]
 ];

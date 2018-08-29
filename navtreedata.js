@@ -24,17 +24,16 @@ for the JavaScript code in this file
 var NAVTREE =
 [
   [ "The ZGLUE SDK (Alpha)", "index.html", [
-    [ "NimBLE on Nuttx", "md_documentation_overview_ble.html", null ],
-    [ "Zip on Nuttx", "md_documentation_overview_nuttx.html", null ],
-    [ "system_chicago", "md_documentation_overview_system_chicago.html", null ],
-    [ "File List", "files.html", "files" ]
+    [ "Comms", "Comms.html", "Comms" ],
+    [ "RTOS", "md_documentation_overview_nuttx.html", [
+      [ "Nuttx", "md_documentation_overview_nuttx.html#Nuttx", null ]
+    ] ]
   ] ]
 ];
 
 var NAVTREEINDEX =
 [
-"fast__api_8h.html",
-"fast__api_8h_ac843c3f1eb8b9ffa1e0ea1e96b066b36.html#ac843c3f1eb8b9ffa1e0ea1e96b066b36ab4a66d3803e2e879db0479f98ec5c14e"
+"Comms.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
