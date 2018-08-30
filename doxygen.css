@@ -1,4 +1,4 @@
-/* The standard CSS for doxygen 1.8.15 */
+/* The standard CSS for doxygen 1.8.16 */
 
 body, table, div, p, dl {
 	font: 400 14px/22px Roboto,sans-serif;
@@ -134,12 +134,12 @@ a.qindex {
 a.qindexHL {
 	font-weight: bold;
 	background-color: #9CAFD4;
-	color: #FFFFFF;
+	color: #ffffff;
 	border: 1px double #869DCA;
 }
 
 .contents a.qindexHL:visited {
-        color: #FFFFFF;
+        color: #ffffff;
 }
 
 a.el {
@@ -267,7 +267,7 @@ span.lineno a:hover {
 div.ah, span.ah {
 	background-color: black;
 	font-weight: bold;
-	color: #FFFFFF;
+	color: #ffffff;
 	margin-bottom: 3px;
 	margin-top: 3px;
 	padding: 0.2em;
@@ -1543,7 +1543,7 @@ tr.heading h2 {
 }
 
 #powerTip.n:after, #powerTip.ne:after, #powerTip.nw:after {
-	border-top-color: #FFFFFF;
+	border-top-color: #ffffff;
 	border-width: 10px;
 	margin: 0px -10px;
 }
@@ -1571,7 +1571,7 @@ tr.heading h2 {
 }
 
 #powerTip.s:after, #powerTip.se:after, #powerTip.sw:after {
-	border-bottom-color: #FFFFFF;
+	border-bottom-color: #ffffff;
 	border-width: 10px;
 	margin: 0px -10px;
 }
@@ -1598,7 +1598,7 @@ tr.heading h2 {
 	left: 100%;
 }
 #powerTip.e:after {
-	border-left-color: #FFFFFF;
+	border-left-color: #ffffff;
 	border-width: 10px;
 	top: 50%;
 	margin-top: -10px;
@@ -1614,7 +1614,7 @@ tr.heading h2 {
 	right: 100%;
 }
 #powerTip.w:after {
-	border-right-color: #FFFFFF;
+	border-right-color: #ffffff;
 	border-width: 10px;
 	top: 50%;
 	margin-top: -10px;

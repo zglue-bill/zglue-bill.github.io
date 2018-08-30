@@ -23,11 +23,9 @@ for the JavaScript code in this file
 */
 var NAVTREE =
 [
-  [ "The ZGLUE SDK (Alpha)", "index.html", [
+  [ "Main Page", "index.html", [
     [ "Comms", "Comms.html", "Comms" ],
-    [ "RTOS", "md_documentation_overview_nuttx.html", [
-      [ "Nuttx", "md_documentation_overview_nuttx.html#Nuttx", null ]
-    ] ]
+    [ "RTOS", "RTOS.html", null ]
   ] ]
 ];
 
