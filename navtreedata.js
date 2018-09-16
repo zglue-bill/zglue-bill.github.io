@@ -24,14 +24,20 @@ for the JavaScript code in this file
 var NAVTREE =
 [
   [ "Main Page", "index.html", [
-    [ "Comms", "Comms.html", "Comms" ],
-    [ "RTOS", "RTOS.html", null ]
+    [ "RTOS:", "index.html#RTOS", null ],
+    [ "Comms:", "index.html#Comms", null ],
+    [ "Support:", "index.html#zglue", [
+      [ "How to reach us", "index.html#Contact", null ],
+      [ "Download", "index.html#Download", null ],
+      [ "Revision History", "index.html#revision_history", null ]
+    ] ],
+    [ "Developer's Guide", "NimBLE.html", null ]
   ] ]
 ];
 
 var NAVTREEINDEX =
 [
-"Comms.html"
+"NimBLE.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

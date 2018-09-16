@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['details',['Details',['../NimBLE.html',1,'Comms']]]
+  ['developer_27s_20guide',['Developer&apos;s Guide',['../NimBLE.html',1,'index']]]
 ];
