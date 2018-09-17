@@ -31,7 +31,8 @@ var NAVTREE =
       [ "Download", "index.html#Download", null ],
       [ "Revision History", "index.html#revision_history", null ]
     ] ],
-    [ "Developer's Guide", "NimBLE.html", null ]
+    [ "Developer's Guide", "NimBLE.html", null ],
+    [ "File List", "files.html", "files" ]
   ] ]
 ];
 
