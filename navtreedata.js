@@ -31,14 +31,27 @@ var NAVTREE =
       [ "Download", "index.html#Download", null ],
       [ "Revision History", "index.html#revision_history", null ]
     ] ],
-    [ "Developer's Guide", "NimBLE.html", null ],
+    [ "Developer's Guide", "NimBLE.html", [
+      [ "\"Overview\"", "NimBLE.html#A0", [
+        [ "What is NimBLE", "NimBLE.html#explain", null ],
+        [ "Components", "NimBLE.html#modules", null ],
+        [ "Security", "NimBLE.html#security", null ]
+      ] ]
+    ] ],
+    [ "NimBLE API", "BLE2.html", null ],
+    [ "Nimble Data Structures", "BLE3.html", null ],
+    [ "zglue_doc", "autotoc_md13.html", null ],
+    [ "Tools Utils Guide", "autotoc_md14.html", null ],
+    [ "zDK Bootloader Guide", "autotoc_md18.html", null ],
+    [ "zDK Linux Environment Setup", "autotoc_md27.html", null ],
+    [ "zDK Protect Image Guide", "autotoc_md34.html", null ],
     [ "File List", "files.html", "files" ]
   ] ]
 ];
 
 var NAVTREEINDEX =
 [
-"NimBLE.html"
+"BLE2.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

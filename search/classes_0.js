@@ -1,8 +1,9 @@
 var searchData=
 [
-  ['fast_5ffault_5fstatus_5fmask_5fu',['fast_fault_status_mask_u',['html.fast/unionfast__fault__status__mask__u.html',1,'']]],
-  ['fast_5fgpio_5finterrupt_5fstatus_5fu',['fast_gpio_interrupt_status_u',['html.fast/unionfast__gpio__interrupt__status__u.html',1,'']]],
-  ['fast_5fled_5fmask_5fu',['fast_led_mask_u',['html.fast/unionfast__led__mask__u.html',1,'']]],
-  ['fast_5fsystem_5fchips_5finformation_5fs',['fast_system_chips_information_s',['html.fast/structfast__system__chips__information__s.html',1,'']]],
-  ['fast_5fsystem_5finformation_5fs',['fast_system_information_s',['html.fast/structfast__system__information__s.html',1,'']]]
+  ['ble_5fgap_5fmaster_5fstate',['ble_gap_master_state',['.././html.nimble/structble__gap__master__state.html',1,'']]],
+  ['ble_5fgap_5fslave_5fstate',['ble_gap_slave_state',['.././html.nimble/structble__gap__slave__state.html',1,'']]],
+  ['ble_5fgap_5fsnapshot',['ble_gap_snapshot',['.././html.nimble/structble__gap__snapshot.html',1,'']]],
+  ['ble_5fgap_5fupdate_5fentry',['ble_gap_update_entry',['.././html.nimble/structble__gap__update__entry.html',1,'']]],
+  ['ble_5fgatts_5fclt_5fcfg',['ble_gatts_clt_cfg',['.././html.nimble/structble__gatts__clt__cfg.html',1,'']]],
+  ['ble_5fgatts_5fsvc_5fentry',['ble_gatts_svc_entry',['.././html.nimble/structble__gatts__svc__entry.html',1,'']]]
 ];

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<tagfile>
+  <compound kind="struct">
+    <name>ble_gap_master_state</name>
+    <filename>structble__gap__master__state.html</filename>
+    <member kind="variable">
+      <type>uint8_t</type>
+      <name>preempted_op</name>
+      <anchorfile>structble__gap__master__state_a8a7911091150f92f3347b653d5b57f4b.html</anchorfile>
+      <anchor>a8a7911091150f92f3347b653d5b57f4b</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="struct">
+    <name>ble_gap_slave_state</name>
+    <filename>structble__gap__slave__state.html</filename>
+    <member kind="variable">
+      <type>unsigned int</type>
+      <name>connectable</name>
+      <anchorfile>structble__gap__slave__state_ac4e7bae47e0afd2e7338d7b324ace0ad.html</anchorfile>
+      <anchor>ac4e7bae47e0afd2e7338d7b324ace0ad</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="struct">
+    <name>ble_gap_snapshot</name>
+    <filename>structble__gap__snapshot.html</filename>
+  </compound>
+  <compound kind="struct">
+    <name>ble_gap_update_entry</name>
+    <filename>structble__gap__update__entry.html</filename>
+  </compound>
+  <compound kind="struct">
+    <name>ble_gatts_clt_cfg</name>
+    <filename>structble__gatts__clt__cfg.html</filename>
+  </compound>
+  <compound kind="struct">
+    <name>ble_gatts_svc_entry</name>
+    <filename>structble__gatts__svc__entry.html</filename>
+  </compound>
+</tagfile>
